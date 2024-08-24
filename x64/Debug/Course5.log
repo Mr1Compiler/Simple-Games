@@ -1,0 +1,3 @@
+﻿  Course5.cpp
+E:\Courses\Course 5\Course5\Course5.cpp(111): warning C4715: 'SimpleCalculator': not all control paths return a value
+  Course5.vcxproj -> E:\Courses\Course 5\Course5\x64\Debug\Course5.exe
